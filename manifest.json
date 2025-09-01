@@ -1,0 +1,10 @@
+{
+  "name": "CopyCat",
+  "description": "Provides a board to paste copied links between web pages.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "clipboard_extension.html",
+    "default_icon": "clipboard_extension.png"
+  }
+}
